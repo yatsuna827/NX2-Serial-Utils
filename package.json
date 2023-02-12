@@ -8,6 +8,10 @@
   ],
   "author": "yatsuna827",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yatsuna827/NX2-Serial-Utils"
+  },
   "scripts": {
     "example": "ts-node ./src/example/index.ts",
     "build": "tsc",
